@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=F7EF05&center=true&vCenter=true&width=435&lines=Software+Developer;Product+Manager;Solution+Architect;Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
-![Cyberpunk Edgerunners](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRnd3BicHNoZzR4ZzRnd3BicHNoZzR4ZzRnd3BicHNoJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/RGyUJwAFjPtxOTxXB0/giphy.gif)
+![Cyberpunk Edgerunners]([https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4ZzRnd3BicHNoZzR4ZzRnd3BicHNoZzR4ZzRnd3BicHNoJmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/RGyUJwAFjPtxOTxXB0/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ24yZ3hhMTl4MGpobmhudXltNmpwN3B1ZXNhb3hycWFoOWxwZ2U3eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RGyUJwAFjP38P3uEiV/giphy.gif))
 
 ---
 
